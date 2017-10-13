@@ -1,0 +1,10 @@
+13. oct. 2017
+- lab meeting: Goldbogen article on lunge feeding in humpback whales
+- MatlabHelpdesk: How window size in spectrogram influences the results (script: three_ways_of_psd01_spectrogram.m)
+- GitHub usage: How to use GitHub with Matlab. It is possible to run the bash commands from Matlab initiating the command with ! 
+- Using GitHub through Matlab:
+	- Navigate to repo
+	- !git status (to see if anything needs to be staged)
+	- !git add file-name.m 
+	- !git commit -m "the comment you want to add"
+ 
