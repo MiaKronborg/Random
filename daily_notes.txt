@@ -7,4 +7,7 @@
 	- !git status (to see if anything needs to be staged)
 	- !git add file-name.m 
 	- !git commit -m "the comment you want to add"
+- Tried setting up GitHub on the web-page, but did not work until i used: git remote set-url URL-address (followed by: git push -u origin master)
+	- BUT from the GitHub desktop the 'publish function' allows to fetch and push
+	
  
